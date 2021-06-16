@@ -1,0 +1,24 @@
+body {
+    background-color: #96192C;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+img {
+    width: 666px;
+    padding-left: 25%;
+}
+
+.text {
+    background-color: rgb(65, 66, 66);
+    color: beige;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+h2 {
+    font-style: italic;
+}
+
+h1 {
+    color: #D2172C;
+}
