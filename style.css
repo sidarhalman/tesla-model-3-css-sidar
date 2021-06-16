@@ -5,7 +5,9 @@ body {
 
 img {
     width: 666px;
-    padding-left: 25%;
+    /* padding-left: 25%; */
+    margin-left: 25%;
+    border-radius: 37px;
 }
 
 .text {
@@ -13,6 +15,7 @@ img {
     color: beige;
     border-radius: 10px;
     padding: 20px;
+    margin-top: 15px;
 }
 
 h2 {
